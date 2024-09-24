@@ -1,6 +1,6 @@
 
 * {
-    background-color: lightgrey;
+    background-color:  lightgrey;
 }
 .main-container {
   display: flex;
@@ -14,15 +14,15 @@
   align-items: center;
   flex-direction: column;
   background-color: white;
-  width: 250px;
+  padding: 5px;
 }
 
 .container {
   height: 200px;
   width: 200px;
-  margin: 10px;
+  margin: 5px;
   border-style: solid;
-  border-width: 15px;
+  border-width: 20px;
 }
 
 .container-red {
